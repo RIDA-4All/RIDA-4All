@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Greetings! I'm RIDA, a passionate computer science student hailing from the vibrant nation of PAKISTAN. 💻 Currently, I'm pursuing my dreams at LCWU, immersing myself in the fascinating world of programming. 🌟 As an aspiring programmer, I'm driven by the desire to become a skilled coder and make a positive impact through technology. 🚀 Collaborating with others and contributing to open-source projects excites me.<br><br>🌱 Beyond coding, I find solace in nature and love losing myself in the pages of a good book. 📚 Perseverance is my mantra, and challenges are stepping stones on my path to success.<br><br>🌈 Join me on this exciting journey as we unlock the endless possibilities that programming offers. Let's shape a better future together! 💪💡
+👋 Hi! I'm Rida, a computer science student from Pakistan. 💻 I'm studying at LCWU and learning a lot about programming. 🌟 I want to become a great coder and use technology to help others. 🚀 I enjoy working with people and love the idea of helping in open-source projects.
+
+🌱 When I'm not coding, I like to spend time in nature and read books. 📚 I believe in never giving up, and I see every challenge as a way to grow.
+
+🌈 Come along with me on this fun journey in programming. Together, we can use code to build a better future! 💪💡
 
 
 ## 🌐 Socials:
