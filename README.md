@@ -1,9 +1,11 @@
 # 💫 About Me:
-👋 Hi! I'm Rida, a computer science student from Pakistan. 💻 I'm studying at LCWU and learning a lot about programming. 🌟 I want to become a great coder and use technology to help others. 🚀 I enjoy working with people and love the idea of helping in open-source projects.
+👋 Hi! I'm Rida, a computer science graduate from Pakistan. 🎓 I completed my degree from LCWU, and now I’m doing an internship at the Lahore Museum as a developer and graphic designer. 💻🎨
 
-🌱 When I'm not coding, I like to spend time in nature and read books. 📚 I believe in never giving up, and I see every challenge as a way to grow.
+🚀 I’m passionate about coding and love using technology to create useful solutions for people. I enjoy teamwork and hope to contribute to open-source projects in the future.
 
-🌈 Come along with me on this fun journey in programming. Together, we can use code to build a better future! 💪💡
+🌱 When I’m not coding, I enjoy spending time in nature and reading books. 📚 I strongly believe in never giving up , every challenge helps me grow and become better.
+
+🌈 Join me on this exciting journey in tech. Together, we can use code to build a better and brighter future!
 
 
 ## 🌐 Socials:
